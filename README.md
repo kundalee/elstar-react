@@ -1,2 +1,1 @@
 # elstar-ts
-# elstar-react
